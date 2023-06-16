@@ -55,5 +55,4 @@ def ingest_data():
         columnas[3]: principales
     }
     resultado = pd.DataFrame(data)
-
     return resultado
